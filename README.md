@@ -1,4 +1,4 @@
-# reallySimple
-An article What Do You Really Mean When You Say 'Simple' 
+# What Do You Really Mean When You Say 'Simple'
+An article 
 
 https://www.youtube.com/watch?v=rI8tNMsozo0
